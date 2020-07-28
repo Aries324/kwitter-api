@@ -3,7 +3,7 @@
 ### Basic setup for local development
 
 - fork this repo
-- git clone to your local computer then `cd kwitter-api`
+- git clone to your local computer then `cd kwitter-project`
 - setup your database:
   - `createdb kwitter` (you must have postgresql installed to have this command)
 - create your `.env` file:
